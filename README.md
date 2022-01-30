@@ -12,7 +12,7 @@
 I create a mircroservice in FastAPI, which could help us decide what to eat in Duke. I use Docker and deployed it on GCP.
 
 ## How to use
-You can visit in by this [link](https://cloudprojectone-7tb6fxucia-uc.a.run.app/)
+You can visit in by this [link](https://cloudprojectone-7tb6fxucia-uc.a.run.app/)  
 Add parameters: 
 * "open-restaurants" list all the restaurants open today.
 * "all-restaurants" list all the restaurants.

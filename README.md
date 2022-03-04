@@ -14,6 +14,6 @@ I create a mircroservice in FastAPI, which could help us decide what to eat in D
 ## How to use
 You can visit in by this [link](https://projectone-pjdq4edtiq-uc.a.run.app)  
 Add parameters after the link: 
-* "open-restaurants" list all the restaurants open today. (for example "https://projectone-pjdq4edtiq-uc.a.run.app/open-restaurants") 
-* "all-restaurants" list all the restaurants. (for example "https://projectone-pjdq4edtiq-uc.a.run.app/all-restaurants")
+* "open-restaurants" list all the restaurants open today. ("https://projectone-pjdq4edtiq-uc.a.run.app/open-restaurants") 
+* "all-restaurants" list all the restaurants. ("https://projectone-pjdq4edtiq-uc.a.run.app/all-restaurants")
   
